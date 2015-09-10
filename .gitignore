@@ -25,3 +25,6 @@ proguard/
 
 # Log Files
 *.log
+git config --global user.name "Your Name"   
+git config --global user.email "your@email.com"//ÅäÖÃ  
+ssh-keygen -t rsa -C "youremail@xxx.com"//Éú³É¹«Ô¿ 
